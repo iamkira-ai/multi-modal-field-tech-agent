@@ -28,7 +28,7 @@ A comprehensive multi-modal AI agent for equipment diagnosis and maintenance sup
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-field-technician.git
+git clone https://github.com/iamkira-ai/ai-field-technician.git
 cd ai-field-technician
 ```
 
@@ -184,16 +184,6 @@ Processes equipment images using computer vision.
 3. Make your changes
 4. Add tests for new functionality
 5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 Support
-
-- 📧 Email: support@example.com
-- 📖 Documentation: [Wiki](https://github.com/yourusername/ai-field-technician/wiki)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/ai-field-technician/issues)
 
 ## 🎯 Roadmap
 
