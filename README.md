@@ -28,8 +28,8 @@ A comprehensive multi-modal AI agent for equipment diagnosis and maintenance sup
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/iamkira-ai/ai-field-technician.git
-cd ai-field-technician
+git clone https://github.com/iamkira-ai/multi-modal-field-tech-agent.git
+cd multi-modal-field-tech-agent
 ```
 
 2. **Install dependencies**
